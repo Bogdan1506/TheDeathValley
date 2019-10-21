@@ -14,7 +14,7 @@
 </head>
 <body>
 <h1 style="color:blue;">Index Page</h1>
-<p><a href="http://localhost:8080/sc"> retrieve data from requests</a></p>
-<p><a href="http://localhost:8080/pr"> visit jsp</a></p>
+<p><a href="/sc"> retrieve data from requests</a></p>
+<p><a href="/pr"> visit jsp</a></p>
 </body>
 </html>
